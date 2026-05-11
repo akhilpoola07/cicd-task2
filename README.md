@@ -169,25 +169,25 @@ body{
 
 ## 1️⃣ Project Files
 
-![Project Files](screenshots/project-files.png)
+![Project Files](cicd-task2/screenshots/project-files.png)
 
 ---
 
 ## 2️⃣ GitHub Actions Workflow File
 
-![Workflow File](screenshots/workflow-file.png)
+![Workflow File](cicd-task2/screenshots/workflow-file.png)
 
 ---
 
 ## 5️⃣ Successful CI/CD Pipeline Execution
 
-![Pipeline Success](screenshots/pipeline-success.png)
+![Pipeline Success](cicd-task2/screenshots/pipeline-success.png)
 
 ---
 
 ## 7️⃣ Automatic Redeployment After Push
 
-![Auto Redeployment](screenshots/auto-redeployment.png)
+![Auto Redeployment](cicd-task2/screenshots/auto-redeployment.png)
 
 ---
 
